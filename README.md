@@ -143,5 +143,5 @@ Real-world backend project structure
 
 👩‍💻 Author
 
-Likhitha (AI & DS Student)
+VAJJA LIKHITHA (AI & DS Student)
 📌 Beginner-friendly backend project for learning & practice
